@@ -32,4 +32,4 @@ function factorial(num){
     }
     }
 
-    module.export = factorial;
+    module.exports = factorial;
